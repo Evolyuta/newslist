@@ -3,7 +3,7 @@
 Для запуска проекта:
 
 - Иметь php, composer, mysql, git
-- Склонировать проект через git clone https://github.com/Evolyuta/newslist.git
+- Клонировать проект через git clone https://github.com/Evolyuta/newslist.git
 - Проверить наличие mbsting.overload = 0 в cli php.ini
 - Запустить composer install в корне проекта
 - Создать базу данных mysql.
